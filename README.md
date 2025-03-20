@@ -47,6 +47,9 @@ python server.py
 - Open app.html in your browser.
 - Enter the required details to predict house prices in Bengaluru.
 
+## 📸 Preview  
+![App Screenshot](images/application_screenshot.png)
+
 ## 🤝 Contributing
 Feel free to fork this repo, create a pull request, or open an issue!
 
